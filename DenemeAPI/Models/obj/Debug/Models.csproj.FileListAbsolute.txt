@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\DenemeAPI\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DenemeAPI\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DenemeAPI\Models\bin\Debug\Models.dll
+C:\Users\pc\source\repos\DenemeAPI\Models\bin\Debug\Models.pdb
+C:\Users\pc\source\repos\DenemeAPI\Models\obj\Debug\Models.dll
+C:\Users\pc\source\repos\DenemeAPI\Models\obj\Debug\Models.pdb
+C:\Users\user\source\repos\DenemeAPI\Models\bin\Debug\Models.dll
+C:\Users\user\source\repos\DenemeAPI\Models\bin\Debug\Models.pdb
+C:\Users\user\source\repos\DenemeAPI\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DenemeAPI\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DenemeAPI\Models\obj\Debug\Models.dll
+C:\Users\user\source\repos\DenemeAPI\Models\obj\Debug\Models.pdb

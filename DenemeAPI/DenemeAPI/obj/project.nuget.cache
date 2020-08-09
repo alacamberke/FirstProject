@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4un5FAor6gDdcI103+qXeimlF3p3Tj7+Z2K/+oI8oFozdjg6YZmzHOFUWazrpu++/bx8piWb40u3ltyi80BKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\DenemeAPI\\DenemeAPI\\DenemeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
